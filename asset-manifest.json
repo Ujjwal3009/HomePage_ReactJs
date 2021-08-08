@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/HomePage_ReactJs/static/css/main.0e203677.chunk.css",
-    "main.js": "/HomePage_ReactJs/static/js/main.85a00ab6.chunk.js",
-    "main.js.map": "/HomePage_ReactJs/static/js/main.85a00ab6.chunk.js.map",
-    "runtime-main.js": "/HomePage_ReactJs/static/js/runtime-main.55f17e71.js",
-    "runtime-main.js.map": "/HomePage_ReactJs/static/js/runtime-main.55f17e71.js.map",
+    "main.css": "/HomePage_ReactJs/static/css/main.09bb12bd.chunk.css",
+    "main.js": "/HomePage_ReactJs/static/js/main.4c60ae51.chunk.js",
+    "main.js.map": "/HomePage_ReactJs/static/js/main.4c60ae51.chunk.js.map",
+    "runtime-main.js": "/HomePage_ReactJs/static/js/runtime-main.e8d69f2a.js",
+    "runtime-main.js.map": "/HomePage_ReactJs/static/js/runtime-main.e8d69f2a.js.map",
     "static/css/2.983f79de.chunk.css": "/HomePage_ReactJs/static/css/2.983f79de.chunk.css",
-    "static/js/2.9fadd3c8.chunk.js": "/HomePage_ReactJs/static/js/2.9fadd3c8.chunk.js",
-    "static/js/2.9fadd3c8.chunk.js.map": "/HomePage_ReactJs/static/js/2.9fadd3c8.chunk.js.map",
-    "static/js/3.c3bb5af2.chunk.js": "/HomePage_ReactJs/static/js/3.c3bb5af2.chunk.js",
-    "static/js/3.c3bb5af2.chunk.js.map": "/HomePage_ReactJs/static/js/3.c3bb5af2.chunk.js.map",
+    "static/js/2.42eced59.chunk.js": "/HomePage_ReactJs/static/js/2.42eced59.chunk.js",
+    "static/js/2.42eced59.chunk.js.map": "/HomePage_ReactJs/static/js/2.42eced59.chunk.js.map",
+    "static/js/3.3a807ee7.chunk.js": "/HomePage_ReactJs/static/js/3.3a807ee7.chunk.js",
+    "static/js/3.3a807ee7.chunk.js.map": "/HomePage_ReactJs/static/js/3.3a807ee7.chunk.js.map",
     "index.html": "/HomePage_ReactJs/index.html",
     "static/css/2.983f79de.chunk.css.map": "/HomePage_ReactJs/static/css/2.983f79de.chunk.css.map",
-    "static/css/main.0e203677.chunk.css.map": "/HomePage_ReactJs/static/css/main.0e203677.chunk.css.map",
-    "static/js/2.9fadd3c8.chunk.js.LICENSE.txt": "/HomePage_ReactJs/static/js/2.9fadd3c8.chunk.js.LICENSE.txt",
+    "static/css/main.09bb12bd.chunk.css.map": "/HomePage_ReactJs/static/css/main.09bb12bd.chunk.css.map",
+    "static/js/2.42eced59.chunk.js.LICENSE.txt": "/HomePage_ReactJs/static/js/2.42eced59.chunk.js.LICENSE.txt",
     "static/media/EnterpriseSolutions.06c698e3.svg": "/HomePage_ReactJs/static/media/EnterpriseSolutions.06c698e3.svg",
     "static/media/GovernmentVector.707a9b64.svg": "/HomePage_ReactJs/static/media/GovernmentVector.707a9b64.svg",
     "static/media/MixedAssets.cbb2b663.svg": "/HomePage_ReactJs/static/media/MixedAssets.cbb2b663.svg",
     "static/media/SolutionsWeDeliver@2x.7bdd834b.png": "/HomePage_ReactJs/static/media/SolutionsWeDeliver@2x.7bdd834b.png",
     "static/media/SytemIntegVector.61c84a24.svg": "/HomePage_ReactJs/static/media/SytemIntegVector.61c84a24.svg",
     "static/media/TEXTBG.e3eff8a1.svg": "/HomePage_ReactJs/static/media/TEXTBG.e3eff8a1.svg",
-    "static/media/TelecomSolutionsVector@2x.74e7ea70.png": "/HomePage_ReactJs/static/media/TelecomSolutionsVector@2x.74e7ea70.png"
+    "static/media/TelecomSolutionsVector@2x.74e7ea70.png": "/HomePage_ReactJs/static/media/TelecomSolutionsVector@2x.74e7ea70.png",
+    "static/media/scrollDown.6b67f99b.svg": "/HomePage_ReactJs/static/media/scrollDown.6b67f99b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.55f17e71.js",
+    "static/js/runtime-main.e8d69f2a.js",
     "static/css/2.983f79de.chunk.css",
-    "static/js/2.9fadd3c8.chunk.js",
-    "static/css/main.0e203677.chunk.css",
-    "static/js/main.85a00ab6.chunk.js"
+    "static/js/2.42eced59.chunk.js",
+    "static/css/main.09bb12bd.chunk.css",
+    "static/js/main.4c60ae51.chunk.js"
   ]
 }
