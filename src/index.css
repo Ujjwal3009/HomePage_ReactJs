@@ -6,8 +6,312 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+header{
+  width: 100% !important;
+  padding-top: 1% !important;
+  border: 1px solid blue;
+  
+}
+header.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+  backdrop-filter: blur(5px);
+}
+button{
+  border-radius: 20px !important;
+  margin-right: 8% !important;
+  margin-top: 5% !important;
+  height: 45px !important;
+  width: 180px !important;
+  letter-spacing: 1px;
+  font: normal normal medium 20px/30px Poppins !important;
+}
+.demo{
+  color: #800000;
+  border: 1px solid #800000;
+  background-color: #f7f7f7;
+  opacity: 1;
+}
+.demo:hover{
+  color:#f7f7f7;
+  border: 1px solid #bd0000;
+  background-color: #bd0000;
+  transition: all ease 0.2s;
+}
+.partnerLogin{
+  background-color: #800000;
+  color: #FFFFFF;
+  border: 1px solid #800000;
+}
+.partnerLogin:hover{
+  background-color: #bd0000;
+  transition: all ease 0.2s;
+}
+nav{
+  top: 35%;
+  width: 107px;
+  height: 28px;
+  font: normal normal medium 20px/30px Poppins;
+  letter-spacing: 1px;
+  color: #000000;
+  opacity: 1;
+}
+a{
+  text-decoration: none !important;
+  color: #000000 ;
+}
+a:hover{
+  text-decoration: underline !important;
+  color: #000000 ;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+  text-align: left;
+  font: normal normal normal 20px/30px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  width: 270px;
+}
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+.Logo{
+  top: 37px;
+  left: 123px;
+  width: 71px;
+  height: 98px;
+}
+.WelcomePage{
+  /* width: 100% !important; */
+  /* padding-top: 2% !important; */
+  padding-top: 3%;
+  padding-bottom: 10%;
+  border: 1px solid blue;
+  font-size: 50px;
+  /* background-image: url(../Assets/WelcomePageAssets/TEXTBG.svg); */
+}
+.GovernmentAndLGU{
+  height: auto;
+  border: 1px solid rgb(0, 183, 255);
+  font-size: 50px;
+}
+.Solutions{
+  height: auto;
+  border: 1px solid rgb(0, 255, 255);
+  font-size: 50px;
+}
+.SystemsIntegration{
+  height: 500px;
+  border: 1px solid rgb(0, 255, 106);
+  font-size: 50px;
+}
+.TelcomSolutions{
+  height: 500px;
+  border: 1px solid rgb(166, 255, 0);
+  font-size: 50px;
+}
+.EnterpriseSolutions{
+  height: 500px;
+  border: 1px solid rgb(208, 255, 0);
+  font-size: 50px;
+}
+.Partners{
+  height: 500px;
+  border: 1px solid rgb(255, 136, 0);
+  font-size: 50px;
+}
+.Company{
+  height: 500px;
+  border: 1px solid rgb(255, 72, 0);
+  font-size: 50px;
+}
+.ContactUs{
+  height: 500px;
+  border: 1px solid rgb(255, 0, 0);
+  font-size: 50px;
+}
+.bulbLogo{
+  height: 400px;
+  width: 450px;
+}
+.ownRow{
+  padding-top: 10%;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  display: flex;
+}
+.line1{
+  text-align: left;
+  font: normal normal bold 49px/93px Myanmar Text;
+  letter-spacing: 1.81px;
+  color: white;
+  text-shadow:
+    -1px -1px 0 #800000,
+    1px -1px 0 #800000,
+    -1px 1px 0 #800000,
+    1px 1px 0 #800000;  
+  opacity: 1;
+}
+.line2{
+  text-align: left;
+  font: normal normal bold 49px/93px Myanmar Text;
+  letter-spacing: 1.81px;
+  color: #800000;
+  text-shadow: 0px 3px 6px #00000069;
+  margin-top: -50px;
+  margin-left: 5px;
+  opacity: 1;
+}
+.GovernmentAndLGU_Row1{
+  padding-top: 10%;
+  text-align: center;
+  font: normal normal 600 40px/60px Poppins;
+  letter-spacing: 0px;
+  color: #800000;
+  opacity: 1
+}
+.GovernmentAndLGU_Row2{
+  text-align: center;
+  font: normal normal normal 22px/44px Poppins;
+  letter-spacing: 0.66px;
+  color: #000000;
+  opacity: 1;
+}
+.GovernmentAndLGU_Row3{
+  margin-top: 1%;
+  margin-bottom: 5%;
+  /* border: 1px solid black; */
+  display: flex;
+  padding-left: 5%;
+  
+}
+.GovernmentAndLGU_box{
+  /* border: 1px solid black; */
+  margin-left: 30px;
+  margin-right: 30px;
+  width: auto;
+  height: 400px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 26px #00000012;
+  border-radius: 20px;
+  opacity: 1;
+}
+.GovernmentAndLGU_text{
+  text-align: center;
+  font: normal normal bold 25px/35px Poppins;
+  letter-spacing: 0.75px;
+  color: #800000;
+  text-transform: uppercase;
+  opacity: 1;
+  margin: 30px;
+  margin-top: 15%;
+}
+.GovernmentAndLGU_img{
+  /* border: 1px solid black; */
+  width: 80%;
+  height: 50%;
+  margin: 10%;
+}
+.GovernmentAndLGU_box:hover .text-overlay{
+  display: flex;
+  backdrop-filter: blur(5px);
+}
+.text-overlay{
+  position: absolute;
+  left: inherit;
+  top: inherit;
+  margin-left: -1.1%;
+  margin-top: 1%;
+  width: 17%;
+  height: 35%;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.596);
+  display: none;
+}
+.text-overlay p{
+  text-align: left;
+  font: normal normal normal 20px/30px Poppins;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+.text-container{
+  height: 80%;
+  margin-top: 5%;
+  font: normal normal normal 20px/30px Poppins;
+  color: #727272;
+  opacity: 1;
+}
+.readMoreContainer{
+  margin-top: 2%;
+  font: normal normal normal 20px/30px Poppins;
+  color: #FF3939 !important;
+  opacity: 1; 
+}
+.SolutionsContainer{
+  /* border: 1px solid red; */
+  width: 100%;
+  display: flex;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  
+}
+.Solutions_img{
+  /* border: 1px solid black; */
+  width: 650px;
+  height: 600px;
+  
+}
+.Solutions_right{
+  border-left: 5px solid #800000;
+  text-align: justify;
+  width: 1000px;
+  height: 600px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding-top: 110px;
+}
+.Solutions_h1{
+  /* border: 1px solid rgb(98, 0, 255); */
+  font: normal normal 600 40px/60px Poppins;
+  letter-spacing: 1.2px;
+  color: #800000;
+  opacity: 1;
+}
+.Solutions_p{
+  /* border: 1px solid rgb(255, 0, 119); */
+  font: normal normal normal 22px/40px Poppins;
+  letter-spacing: 0.66px;
+  color: #000000;
+  opacity: 1;
+}
+.SolutionsDivider1{
+  height: 600px;
+  border-left: 30px solid #800000;
+  margin-left: 20px;
+}
+.SolutionsDivider2{
+  height: 600px;
+  border-left: 10px solid #800000;
+  margin-left: 20px;
+}
+
+
+
+
