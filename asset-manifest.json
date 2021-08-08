@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e203677.chunk.css",
+    "main.js": "/static/js/main.85a00ab6.chunk.js",
+    "main.js.map": "/static/js/main.85a00ab6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba2eb96e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba2eb96e.js.map",
+    "static/css/2.983f79de.chunk.css": "/static/css/2.983f79de.chunk.css",
+    "static/js/2.9fadd3c8.chunk.js": "/static/js/2.9fadd3c8.chunk.js",
+    "static/js/2.9fadd3c8.chunk.js.map": "/static/js/2.9fadd3c8.chunk.js.map",
+    "static/js/3.c3bb5af2.chunk.js": "/static/js/3.c3bb5af2.chunk.js",
+    "static/js/3.c3bb5af2.chunk.js.map": "/static/js/3.c3bb5af2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.0e203677.chunk.css.map": "/static/css/main.0e203677.chunk.css.map",
+    "static/js/2.9fadd3c8.chunk.js.LICENSE.txt": "/static/js/2.9fadd3c8.chunk.js.LICENSE.txt",
+    "static/media/EnterpriseSolutions.06c698e3.svg": "/static/media/EnterpriseSolutions.06c698e3.svg",
+    "static/media/GovernmentVector.707a9b64.svg": "/static/media/GovernmentVector.707a9b64.svg",
+    "static/media/MixedAssets.cbb2b663.svg": "/static/media/MixedAssets.cbb2b663.svg",
+    "static/media/SolutionsWeDeliver@2x.7bdd834b.png": "/static/media/SolutionsWeDeliver@2x.7bdd834b.png",
+    "static/media/SytemIntegVector.61c84a24.svg": "/static/media/SytemIntegVector.61c84a24.svg",
+    "static/media/TEXTBG.e3eff8a1.svg": "/static/media/TEXTBG.e3eff8a1.svg",
+    "static/media/TelecomSolutionsVector@2x.74e7ea70.png": "/static/media/TelecomSolutionsVector@2x.74e7ea70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba2eb96e.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.9fadd3c8.chunk.js",
+    "static/css/main.0e203677.chunk.css",
+    "static/js/main.85a00ab6.chunk.js"
+  ]
+}
