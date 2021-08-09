@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HomePage_ReactJs/static/css/main.716cd464.chunk.css",
-    "main.js": "/HomePage_ReactJs/static/js/main.c28bb021.chunk.js",
-    "main.js.map": "/HomePage_ReactJs/static/js/main.c28bb021.chunk.js.map",
+    "main.css": "/HomePage_ReactJs/static/css/main.5b3c5fe0.chunk.css",
+    "main.js": "/HomePage_ReactJs/static/js/main.72401ba9.chunk.js",
+    "main.js.map": "/HomePage_ReactJs/static/js/main.72401ba9.chunk.js.map",
     "runtime-main.js": "/HomePage_ReactJs/static/js/runtime-main.e8d69f2a.js",
     "runtime-main.js.map": "/HomePage_ReactJs/static/js/runtime-main.e8d69f2a.js.map",
     "static/css/2.983f79de.chunk.css": "/HomePage_ReactJs/static/css/2.983f79de.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.3a807ee7.chunk.js.map": "/HomePage_ReactJs/static/js/3.3a807ee7.chunk.js.map",
     "index.html": "/HomePage_ReactJs/index.html",
     "static/css/2.983f79de.chunk.css.map": "/HomePage_ReactJs/static/css/2.983f79de.chunk.css.map",
-    "static/css/main.716cd464.chunk.css.map": "/HomePage_ReactJs/static/css/main.716cd464.chunk.css.map",
+    "static/css/main.5b3c5fe0.chunk.css.map": "/HomePage_ReactJs/static/css/main.5b3c5fe0.chunk.css.map",
     "static/js/2.42eced59.chunk.js.LICENSE.txt": "/HomePage_ReactJs/static/js/2.42eced59.chunk.js.LICENSE.txt",
     "static/media/EnterpriseSolutions.06c698e3.svg": "/HomePage_ReactJs/static/media/EnterpriseSolutions.06c698e3.svg",
     "static/media/GovernmentVector.707a9b64.svg": "/HomePage_ReactJs/static/media/GovernmentVector.707a9b64.svg",
@@ -21,13 +21,14 @@
     "static/media/SytemIntegVector.61c84a24.svg": "/HomePage_ReactJs/static/media/SytemIntegVector.61c84a24.svg",
     "static/media/TEXTBG.e3eff8a1.svg": "/HomePage_ReactJs/static/media/TEXTBG.e3eff8a1.svg",
     "static/media/TelecomSolutionsVector@2x.74e7ea70.png": "/HomePage_ReactJs/static/media/TelecomSolutionsVector@2x.74e7ea70.png",
+    "static/media/right.5541ff16.svg": "/HomePage_ReactJs/static/media/right.5541ff16.svg",
     "static/media/scrollDown.6b67f99b.svg": "/HomePage_ReactJs/static/media/scrollDown.6b67f99b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e8d69f2a.js",
     "static/css/2.983f79de.chunk.css",
     "static/js/2.42eced59.chunk.js",
-    "static/css/main.716cd464.chunk.css",
-    "static/js/main.c28bb021.chunk.js"
+    "static/css/main.5b3c5fe0.chunk.css",
+    "static/js/main.72401ba9.chunk.js"
   ]
 }
